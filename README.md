@@ -28,3 +28,6 @@ For documentation, run
 help gmres4r
 help gcr4r
 ```
+
+## Authors
+Pierre Matalon, Nicole Spillane
